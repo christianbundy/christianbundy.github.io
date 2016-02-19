@@ -3,14 +3,14 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.date | date: "%B %e, %Y" }}</h1>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Source code available upon <a href="https://github.com/christianbundy/christianbundy.github.io/blob/master/_posts/{{ page.date | date: "%Y-%m-%d" }}.md">HTTP request</a>.
   </div>
 
   {% include disqus.html %}
