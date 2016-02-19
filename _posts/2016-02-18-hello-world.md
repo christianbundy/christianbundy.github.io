@@ -7,6 +7,6 @@ I woke up late this morning, had some green tea, worked a bit, had lunch with Ka
 
 I went to the gym to do my [Starting Strength](http://startingstrength.wikia.com/wiki/Starting_Strength_Wiki) routine, and did my squats (3x5x145lb), overhead press (3x5x100lb), and deadlifts (1x5x145lb), and skipped cleaning my apartment so that I could get to Kathleen's on time. Unfortunately, I still got there late. Apparently biking around is hard when you have no idea where you're going, and I *really* didn't think the whole "3 mile bike ride after squats and deadlifts" thing through.
 
-I got to her house around 8:30, had a bagel, did my stretches ([Starting Stretching](http://phraktured.net/starting-stretching.html)), and passed out hard around 22:00.
+I got to her house around 20:30, had a bagel, did my stretches ([Starting Stretching](http://phraktured.net/starting-stretching.html)), and passed out hard around 22:00.
 
 I felt bad that I didn't clean my apartment, but I was happy to actually be getting the rest of my responsibilities finished.
